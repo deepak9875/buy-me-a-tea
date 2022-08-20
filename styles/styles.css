@@ -1,0 +1,133 @@
+.bg-img {
+    background-image: url("/img/tea.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: calc(100vw / 5.8 - 1px);
+    min-height: 103px;
+    background-size: cover;
+}
+
+.Home_container__bCOhY {
+    padding: 0px !important;
+}
+.img-width {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+.mt-123 {
+    margin-top: 123px;
+}
+.rohit_name {
+    font-size: 30px;
+    font-weight: 500;
+}
+.cup_tea {
+    font-size: 20px;
+    font-weight: 400;
+    color: #222222;
+}
+.support {
+    font-size: 20px;
+    font-weight: 400;
+    color: #717171;
+}
+.free_chai {
+    font-size: 20px;
+    font-weight: 700;
+    color: #222222;
+}
+.chai_homemade {
+    font-size: 16px;
+    font-weight: 400;
+    color: #222222;
+}
+.free_btn {
+    height: 30px;
+    background-color: #0000ff8a;
+    padding: 0 8px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.extra {
+    font-size: 14px;
+    font-weight: 700;
+    color: #717171;
+}
+.p-24 {
+    padding: 24px;
+}
+.w-45 {
+    width: 45%;
+}
+.h-200 {
+    height: 200px;
+}
+.common_para {
+    font-size: 20px;
+    font-weight: 500;
+    color: #717171;
+}
+.amount {
+    font-size: 32px;
+    font-weight: 700;
+}
+.per_month {
+    font-size: 12px;
+    font-weight: 700;
+    color: #717171;
+}
+.btn_jion {
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    margin: 16, 0, 0;
+    background-color: #0000ff8a;
+    padding: 14px 32px;
+    border: 0px !important;
+    border-radius: 10px;
+}
+.club_para {
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+}
+.pr_pl_32 {
+    padding-right: 32px;
+    padding-left: 32px;
+}
+.pb_16 {
+    padding-bottom: 16px;
+}
+.b_b_1 {
+    border-bottom: 1px solid;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    background-color: transparent !important;
+    border-bottom: 3px solid red !important;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: red;
+    border-radius: 8px 8px 0 0;
+}
+.nav-tabs .nav-link {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: #222222;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 8px 8px 0 0;
+}
+.nav-tabs {
+    border-bottom: none;
+}
